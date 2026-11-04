@@ -105,13 +105,20 @@
 
 ## 8. Скріншоти
 
-| # | Що на скріншоті | Файл |
-|:-:|---|---|
-| 1 | Roadmap з залежностями між Epics | `img/roadmap.png` |
-| 2 | Velocity Chart | `img/velocity.png` |
-| 3 | Burndown Chart Sprint 1 | `img/burndown-s1.png` |
-| 4 | Story з Subtasks і Time Tracking | `img/story-subtasks.png` |
-| 5 | Releases (v1.0-MVP, v1.1) | `img/releases.png` |
+### 1. Roadmap з залежностями між Epics
+![Roadmap](img/roadmap.png)
+
+### 2. Velocity Chart
+![Velocity Chart](img/velocity.png)
+
+### 3. Burndown Chart Sprint 1
+![Burndown Chart](img/burndown-s1.png)
+
+### 4. Story з Subtasks і Time Tracking
+![Story Subtasks](img/story-subtasks.png)
+
+### 5. Releases (v1.0-MVP, v1.1)
+![Releases](img/releases.png)
 
 ---
 
