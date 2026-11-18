@@ -69,11 +69,16 @@
 | Sprint 4 | 8 Dec – 21 Dec | qa, infra | ~40 | Початок сесії, Capacity команди падає. |
 
 ## 2.9. Скріншоти з Jira
-1. Backlog з Labels: `![Backlog Labels](docs/img/lab9-labels.png)`
-2. Board по Assignee: `![Workload Assignee](docs/img/lab9-workload.png)`
-3. Board по Labels: `![Workload Labels](docs/img/lab9-areas.png)`
-4. Velocity report: `![Velocity](docs/img/lab9-velocity.png)`
-5. Details $\rightarrow$ Default assignee: `![Default Assignee](docs/img/lab9-default-assignee.png)`
+1. Backlog з Labels:
+![Backlog Labels](docs/img/lab9-labels.png)
+2. Board по Assignee:
+![Workload Assignee](docs/img/lab9-workload.png)
+3. Board по Labels:
+![Workload Labels](docs/img/lab9-areas.png)
+4. Velocity report:
+![Velocity](docs/img/lab9-velocity.png)
+5. Details -> Default assignee:
+![Default Assignee](docs/img/lab9-default-assignee.png)
 
 ## 2.10. Висновки команди
 * **Хто перевантажений:** Єгор (Developer) має найвище навантаження, оскільки він закриває дві технічно складні зони (frontend + backend).
